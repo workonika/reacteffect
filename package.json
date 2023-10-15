@@ -1,5 +1,5 @@
 {
-  "name": "reacteffect",
+  "name": "react-hook-effect",
   "version": "1.0.0",
   "description": "",
   "main": "./root/index.js",
@@ -25,7 +25,7 @@
     "type": "git",
     "url": "git+https://github.com/workonika/reacteffect.git"
   },
-  "bugs":{
+  "bugs": {
     "url": "https://github.com/workonika/reacteffect/issues"
   },
   "homepage": "https://github.com/workonika/reacteffect#readme"
