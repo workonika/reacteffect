@@ -47,7 +47,3 @@ export const useLocalStorage = (defaultReturnValue = null) => {
         },
     }
 }
-
-module.exports = {
-    useLocalStorage,
-}
