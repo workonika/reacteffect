@@ -1,0 +1,32 @@
+{
+  "name": "reacteffect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./root/index.js",
+  "directories": {
+    "examples": "examples",
+    "test": "test"
+  },
+  "keywords": [
+    "uselocalstorage",
+    "usesessionstorage",
+    "usefetch",
+    "react hook"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kuzmin Anton",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workonika/reacteffect.git"
+  },
+  "bugs":{
+    "url": "https://github.com/workonika/reacteffect/issues"
+  },
+  "homepage": "https://github.com/workonika/reacteffect#readme"
+}
