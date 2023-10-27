@@ -1,6 +1,6 @@
 import { useEffect, useState, useRef } from 'react';
 
-export const createBrowserStorageHook = (storage) => {
+export const createBrowserStorageHook = (storage: Storage) => {
     const __keys_stored_to_restore__ = '__REACT_HOOK_EFFECT__LOCAL_STORAGE_KEYS_';
     const __default_value__ = Math.round(Math.random() * 1_000_000_000_000);
 
