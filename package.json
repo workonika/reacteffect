@@ -1,6 +1,6 @@
 {
   "name": "react-hook-effect",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "",
   "main": "./root/index.js",
   "directories": {
@@ -14,7 +14,8 @@
     "react hook effect",
     "react-hook-effect",
     "react localstorage",
-    "react sessionstorage"
+    "react sessionstorage",
+    "synchronous react localstorage"
   ],
   "scripts": {
     "test": "jest"
