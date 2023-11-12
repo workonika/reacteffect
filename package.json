@@ -1,0 +1,27 @@
+{
+  "name": "baraban",
+  "version": "1.0.0",
+  "description": "form elements for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workonika/baraban.git"
+  },
+  "keywords": [
+    "react",
+    "form",
+    "forms",
+    "input",
+    "validation",
+    "formdata"
+  ],
+  "author": "Kuzmin Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workonika/baraban/issues"
+  },
+  "homepage": "https://github.com/workonika/baraban#readme"
+}
